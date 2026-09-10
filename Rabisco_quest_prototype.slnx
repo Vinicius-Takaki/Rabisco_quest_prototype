@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Rabisco_quest_prototype/Rabisco_quest_prototype.vcxproj" Id="2cdd28ed-cb1a-420b-809e-3746d29e5c17" />
+</Solution>
