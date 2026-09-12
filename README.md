@@ -112,6 +112,11 @@ O projeto também pode ser compilado fora do Visual Studio, usando VS Code com M
 
 > **Observação:** a pasta `SFML-2.6.2/` incluída neste repositório foi compilada para uso com Visual Studio (MSVC). Para compilar com MinGW/g++, é necessário baixar separadamente a versão do SFML correspondente ao MinGW, pois os binários não são compatíveis entre os dois compiladores.
 
+## Demonstração
+https://youtu.be/3sLKRqhc8mM
+<img width="1920" height="1080" alt="Base Profile Screenshot 2026 09 12 - 18 23 08 90" src="https://github.com/user-attachments/assets/cf782207-993c-4e52-a062-6b55a9770713" />
+
+
 ## Status do projeto
 
 Este é um projeto em desenvolvimento contínuo, originado de um trabalho acadêmico de programação orientada a objetos. Algumas áreas seguem em evolução:
