@@ -63,7 +63,7 @@ Rabisco_quest_prototype/
 └── main.cpp             # Ponto de entrada
 ```
 
-## Equipe
 
-Desenvolvido por:
+Desenvolvido por: Vinícius Takaki Rodrigues
+
 
